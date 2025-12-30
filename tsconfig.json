@@ -4,7 +4,7 @@
 "module": "es6",
 "strict": true,
 "esModuleInterop": true,
-"outDir": "./dist"
+"outDir": "dist"
 },
-"include": ["source"]
+"include": ["source", ".gitignore"]
 }
