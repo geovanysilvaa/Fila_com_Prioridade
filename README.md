@@ -30,5 +30,9 @@ Todos os métodos respeitam a ordem de prioridade:
 
 ## Como executar
 1. Instale o TypeScript, se necessário:
-```bash
-npm install -g typescript
+2. Remove-Item -Recurse -Force .parcel-cache
+3. npm install
+4. npm start
+
+
+
