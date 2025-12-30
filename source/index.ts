@@ -13,6 +13,7 @@ console.log("Quantidade:", fila.elemento());
 console.log("Próximo elemento:", fila.proximoElemento()); 
 
 
+
 console.log("Removido:", fila.pop()); 
 console.log("Removido:", fila.pop()); 
 console.log("Próximo elemento:", fila.proximoElemento()); 
